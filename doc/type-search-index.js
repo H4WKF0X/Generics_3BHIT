@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"methods","l":"GenericUtils"},{"p":"methods","l":"GenericUtilsTest"},{"p":"stack","l":"Stack"},{"p":"stack","l":"StackEmptyException"},{"p":"stack","l":"StackFullException"},{"p":"stack","l":"StackTest"}];updateSearchResults();
